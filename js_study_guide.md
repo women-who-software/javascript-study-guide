@@ -9,7 +9,7 @@ Please check the [Meetup page](https://www.meetup.com/Women-Who-Code-Boulder-Den
 
 ## Table of Contents
 
-#### I. [Tools](js_tools.md)
+#### I. [Tools](resources/js_tools.md)
 #### II. Resources
 - [Beginner](resources/beginner.md)
 - [Intermediate](resources/intermediate.md)
