@@ -7,6 +7,6 @@
 - Make a [slider](http://rafbm.github.io/howtomakeaslider/)
 
 #### Intermediate
--[Exercism.io](http://www.exercism.io/)
+- [Exercism.io](http://www.exercism.io/)
 - Google Creative Lab [Night and Day project](http://googlecreativelab.github.io/coder-projects/projects/night_and_day/)
 - Google Creative Lab [Music Boxes project](http://googlecreativelab.github.io/coder-projects/projects/music_boxes/)
