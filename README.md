@@ -14,4 +14,5 @@ Please check the [Meetup page](https://www.meetup.com/Women-Who-Code-Boulder-Den
 - [Beginner](resources/beginner.md)
 - [Intermediate](resources/intermediate.md)
 - [Advanced](resources/advanced.md)
+
 #### III. [Exercises/Project Ideas](resources/exercises.md)
